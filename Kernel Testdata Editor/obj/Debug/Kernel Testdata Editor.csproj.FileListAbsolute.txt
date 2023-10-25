@@ -1,0 +1,14 @@
+C:\Users\Hazem\documents\visual studio 2013\Projects\Kernel Testdata Editor\Kernel Testdata Editor\bin\Debug\Kernel Testdata Editor.exe.config
+C:\Users\Hazem\documents\visual studio 2013\Projects\Kernel Testdata Editor\Kernel Testdata Editor\bin\Debug\Kernel Testdata Editor.exe
+C:\Users\Hazem\documents\visual studio 2013\Projects\Kernel Testdata Editor\Kernel Testdata Editor\bin\Debug\Kernel Testdata Editor.pdb
+C:\Users\Hazem\documents\visual studio 2013\Projects\Kernel Testdata Editor\Kernel Testdata Editor\obj\Debug\Kernel_Testdata_Editor.Form1.resources
+C:\Users\Hazem\documents\visual studio 2013\Projects\Kernel Testdata Editor\Kernel Testdata Editor\obj\Debug\Kernel_Testdata_Editor.pixelPanel.resources
+C:\Users\Hazem\documents\visual studio 2013\Projects\Kernel Testdata Editor\Kernel Testdata Editor\obj\Debug\Kernel_Testdata_Editor.Properties.Resources.resources
+C:\Users\Hazem\documents\visual studio 2013\Projects\Kernel Testdata Editor\Kernel Testdata Editor\obj\Debug\Kernel Testdata Editor.csproj.GenerateResource.Cache
+C:\Users\Hazem\documents\visual studio 2013\Projects\Kernel Testdata Editor\Kernel Testdata Editor\obj\Debug\Kernel Testdata Editor.exe
+C:\Users\Hazem\documents\visual studio 2013\Projects\Kernel Testdata Editor\Kernel Testdata Editor\obj\Debug\Kernel Testdata Editor.pdb
+C:\Users\Hazem\Documents\Visual Studio 2013\Projects\Kernel Testdata Editor\Kernel Testdata Editor\obj\Debug\Kernel Testdata Editor.csprojResolveAssemblyReference.cache
+C:\Users\Hazem\Documents\Visual Studio 2013\Projects\Kernel Testdata Editor\Kernel Testdata Editor\bin\Debug\Kernel Testdata Editor.exe.manifest
+C:\Users\Hazem\Documents\Visual Studio 2013\Projects\Kernel Testdata Editor\Kernel Testdata Editor\bin\Debug\Kernel Testdata Editor.application
+C:\Users\Hazem\Documents\Visual Studio 2013\Projects\Kernel Testdata Editor\Kernel Testdata Editor\obj\Debug\Kernel Testdata Editor.exe.manifest
+C:\Users\Hazem\Documents\Visual Studio 2013\Projects\Kernel Testdata Editor\Kernel Testdata Editor\obj\Debug\Kernel Testdata Editor.application
